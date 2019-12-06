@@ -98,6 +98,9 @@ padding: 3% 2%;
   #title {
     text-align: center;
   }
+ .press-logo {
+  width: 15%;
+}
 .title-image {
   padding-right: 100px;
 }
